@@ -162,11 +162,11 @@ This book is inspired by
 
 The first book, while designed for upper-level undergraduates and graduate students, provides an excellent resource on how to use resampling to impart statistical concepts like sampling distributions using computation instead of large-sample approximations and other mathematical formulas. The last two books are free options to learning introductory statistics and data science, providing an alternative to the many traditionally expensive introductory statistics textbooks. 
 
-When looking over the large number of introductory statistics textbooks that currently exist, we found there wasn't one that incorporated many newly developed R packages directly into the text, in particular the many packages included in the [`tidyverse`](http://tidyverse.org/) collection of packages, such as `ggplot2`, `dplyr`, `tidyr`, and `readr`. Additionally, there wasn't an open-source and easily reproducible textbook available that exposed new learners to all four of the learning goals we listed in "Introduction for students."
+When looking over the large number of introductory statistics textbooks that currently exist, we found there wasn't one that incorporated many newly developed R packages directly into the text, in particular the many packages included in the [`tidyverse`](http://tidyverse.org/) collection of packages, such as `ggplot2`, `dplyr`, `tidyr`, `readr` and `readxl`. Additionally, there wasn't an open-source and easily reproducible textbook available that exposed new learners to all four of the learning goals we listed in "Introduction for students."
 
 ### Who is this book for? {-}
 
-This book is intended for instructors of traditional introductory statistics classes using RStudio, who would like to inject more data science topics into their syllabus. RStudio can be used in either the server version or the desktop version. (This is discussed further in Subsection \@ref(installing).) We assume that students taking the class will have no prior algebra, no calculus, nor programming/coding experience.
+This book is intended for instructors who would like to inject more data science topics into their syllabus. RStudio can be used in either the server version or the desktop version. (This is discussed further in Subsection \@ref(installing).) We assume that students taking the class will have no prior algebra, no calculus, nor programming/coding experience.
 
 Here are some principles and beliefs we kept in mind while writing this text. If you agree with them, this might be the book for you.
 
@@ -260,11 +260,13 @@ Chester Ismay           |  Albert Y. Kim
     + Webpage: <http://chester.rbind.io/>
     + Twitter: [old_man_chester](https://twitter.com/old_man_chester)
     + GitHub: <https://github.com/ismayc>
-* Albert Y. Kim: Assistant Professor of Statistical & Data Sciences - Smith College, Northampton, MA, USA.
+* Albert Y. Kim: Assistant Professor of Satistical & Data Sciences - Smith College, Northampton, MA, USA.
     + Email: albert.ys.kim@gmail.com
     + Webpage: <http://rudeboybert.rbind.io/>
     + Twitter: [rudeboybert](https://twitter.com/rudeboybert)
     + GitHub: <https://github.com/rudeboybert>
+* Elizabeth Stanny: Professor of Business - Sonoma State University, Rohnert Park, CA, USA.
+    + Email: stanny@sonoma.edu
+    + Webpage: <http://etanny.com/>
+    + GitHub: <https://github.com/elizabethst>
 
-<!-- For use only in PDF, is skipped in HTML -->
-\mainmatter
